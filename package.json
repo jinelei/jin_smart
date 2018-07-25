@@ -1,0 +1,15 @@
+{
+  "name": "jin_smart",
+  "version": "1.0.0",
+  "description": "jin smart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "jinelei",
+  "license": "ISC",
+  "devDependencies": {
+    "http": "0.0.0"
+  }
+}
